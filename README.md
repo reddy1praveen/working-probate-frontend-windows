@@ -21,24 +21,32 @@ Go to probate fronend dir and set path node path.
 
 
 
-``` export NODE_PATH=.  
+``` 
+export NODE_PATH=. 
+
 ```
 
 and to start app
 
-```    node server.js
+```  
+node server.js
+
 ```
 
 Windows commands
 ================
 
 
-``` set NODE_PATH .  
+``` 
+set NODE_PATH .  
+
 ```
 
 and to start app
 
-```    node server.js
+```   
+node server.js
+
 ```
 
 ## Guides
